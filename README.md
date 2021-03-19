@@ -1,2 +1,3 @@
 # hello-world
-Starting sandbox
+Hello, world.
+I'm a once and (hopefully) future coder.
